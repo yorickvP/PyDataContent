@@ -1,6 +1,8 @@
 # LLM Agents 101: How I Gave ChatGPT Access to My To-Do List
 by Jordi Smit
 * [Talk info](https://amsterdam2023.pydata.org/cfp/talk/N7Y7X7/)
+* [Slides](./slides.pdf)
+
 ## Abstract
 ChatGPT is a fantastic assistant, but it cannot do everything yet. For example, it cannot automatically manage my calendar, update my to-do list, or do anything that requires it to perform actions. However, what would it take to make this a reality? I decided to put it to the test by allowing ChatGPT to manage my to-do list for me.
 

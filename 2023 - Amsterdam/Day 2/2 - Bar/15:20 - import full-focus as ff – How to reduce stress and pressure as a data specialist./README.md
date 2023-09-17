@@ -1,6 +1,8 @@
 # import full-focus as ff – How to reduce stress and pressure as a data specialist.
 by Maarten Oude Rikmanspoel
 * [Talk info](https://amsterdam2023.pydata.org/cfp/talk/DK83DT/)
+* [Slides](./slides.pdf)
+
 ## Abstract
 Data science, IT and software development become more and more complex and are subject to increasing requirements and fast-paced business demand. Higher complexity, higher pace and higher quality requirements result in more pressure on our fellow data engineers and data scientists. 
 
