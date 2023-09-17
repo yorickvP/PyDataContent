@@ -1,6 +1,8 @@
 # There are no bad labels, only happy accidents
 by Ines Montani, Vincent Warmerdam
 * [Talk info](https://amsterdam2023.pydata.org/cfp/talk/BTLQEF/)
+* [Repo](https://github.com/koaning/there-are-no-bad-labels)
+
 ## Abstract
 Are you 100% sure that you can trust your labels?
 Imagine spending a company credit card worth of compute on getting the best model statistics ever. Would that be money well spent if your dataset has some labeling issues?
