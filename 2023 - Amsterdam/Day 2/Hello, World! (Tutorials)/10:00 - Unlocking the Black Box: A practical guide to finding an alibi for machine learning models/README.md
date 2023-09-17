@@ -1,0 +1,5 @@
+# Unlocking the Black Box: A practical guide to finding an alibi for machine learning models
+by Ramon Perez
+* [Talk info](https://amsterdam2023.pydata.org/cfp/talk/J7FT8T/)
+## Abstract
+Knowledge work is undergoing a transformative journey with machine learning (ML) but the interpretability of the models we interact with is still lagging behind the coolness and hype of the technologies using ML. This workshop seeks to address the gap between the speed at which we use and adopt ML and the pace at which we understand it. During the workshop, we will cover fundamental concepts and techniques of interpretable machine learning, and explore various explainability methods supported by the Alibi Explain library so that you can get started explaining your models. If you've been meaning to dive deeper into the field of interpretable ML, add interpretability to your workflows, find an alibi for your models, or are simply curious about the field, come and join us for a fun 90-minute interactive session on interpretable ML.

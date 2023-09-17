@@ -1,0 +1,5 @@
+# Revealing the True Motives of News Readers
+by Jurriaan Nagelkerke, Vincent Smeets
+* [Talk info](https://amsterdam2023.pydata.org/cfp/talk/8PWH9X/)
+## Abstract
+Every news consumer has needs and in order to build a true bond with your customer it is vital to meet these, sometimes, diverse needs. To achieve this, first of all, it is important to identify the overarching needs of users; the reason why they read news. The BBC conducted research to determine these needs and identified six distinct categories: Update me, Keep me on trend, Give me perspective, Educate me, Divert me, and Inspire me. Their research showed that an equal distribution of content across these user needs will lead to higher customer engagement and loyalty. To apply this concept within DPG Media, we started building our own user needs model. Through various iterations of text labelling, text preparation, model building, fine-tuning and evaluation, we have arrived at a BERT model that is capable of determining the associated user needs based solely on the article text.
